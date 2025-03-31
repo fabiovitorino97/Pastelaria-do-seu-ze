@@ -26,14 +26,17 @@ Primeiro, clone o repositório em sua máquina local:
 
 ```bash
 git clone https://github.com/SEU-USER/SEU-REPOSITORIO.git
-2. Instalando Dependências
+
+### 2. Instalando Dependências
 Navegue até o diretório do projeto e instale as dependências:
 
 bash
 Copiar
 Editar
 cd SEU-REPOSITORIO
-npm install3. Rodando o Projeto
+npm install
+
+### 3. Rodando o Projeto
 Para iniciar o servidor de desenvolvimento, execute o comando:
 
 bash
@@ -42,7 +45,7 @@ Editar
 npm run dev
 O projeto estará disponível em http://localhost:3000.
 
-4. Executando os Testes (se houver)
+### 4. Executando os Testes (se houver)
 Se você tiver testes configurados, pode rodá-los com o comando:
 
 bash
