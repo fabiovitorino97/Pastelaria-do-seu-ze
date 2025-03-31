@@ -58,7 +58,7 @@ A estrutura do projeto é a seguinte:
 csharp
 Copiar
 Editar
-.
+```.
 ├── public/              # Arquivos públicos (ex: ícones, imagens)
 ├── src/                 # Código-fonte do projeto
 │   ├── assets/          # Imagens e outros ativos
@@ -68,6 +68,8 @@ Editar
 │   └── main.tsx         # Ponto de entrada do React
 ├── package.json         # Arquivo de configuração do projeto
 └── README.md            # Este arquivo
+
+```
 Contribuindo
 Se você deseja contribuir para este projeto, siga as etapas abaixo:
 
