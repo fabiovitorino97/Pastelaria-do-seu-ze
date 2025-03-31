@@ -24,7 +24,7 @@ Este projeto foi desenvolvido utilizando React, TailwindCSS e TypeScript. Ele pe
 
 Primeiro, clone o repositório em sua máquina local:
 
-```bash
+bash
 git clone https://github.com/SEU-USER/SEU-REPOSITORIO.git
 
 ### 2. Instalando Dependências
